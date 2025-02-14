@@ -1,6 +1,12 @@
-# Yu Zengqi's Personal Homepage
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
-## About Me
 
 I'm an undergraduate student from the [School of Computer Science](https://cs.hust.edu.cn/), [Huazhong University of Science and Technology](https://www.hust.edu.cn/). My research interests include multimodal large models, large language models, and hallucination removal.
 
